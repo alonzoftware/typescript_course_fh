@@ -11,7 +11,10 @@ $ tsc --version
 # Important Links
 https://www.typescriptlang.org/
 https://www.typescriptlang.org/docs/handbook/intro.html
+https://www.typescriptlang.org/docs/handbook/2/everyday-types.html
 
 
 # Initial Commands
 $ tsc --init 
+$ tsc -w 
+$ tsc --watch
